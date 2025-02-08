@@ -1,2 +1,2 @@
-# leraning1
+# learning1
 this is my first step in dev journey 
